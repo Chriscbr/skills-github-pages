@@ -1,3 +1,4 @@
 theme: minima
 title: "Test 123"
 author: "The author"
+destination: "/blog"
